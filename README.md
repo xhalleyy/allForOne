@@ -2,6 +2,8 @@ Halley Pham
 
 All for One
 
+Description: Put all the endpoints are put in one project and deployed. Fetched Apis for each in different scripts. Once the submit button is clicked, the Api is called and the output is changed.
+
 1/26/2024
 
 Peer Reviewer & Comments: Caleb Sylvia
