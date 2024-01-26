@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    @font-face {
+        font-family: hiromisake;
+        src: url(../assets/HIROMISAKE.ttf);
+    }
+
+    @font-face {
+        font-family: nova;
+        src: url(../assets/NovaRound-Regular.ttf);
+    }
+}
